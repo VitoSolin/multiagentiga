@@ -1,0 +1,51 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# NetBeans files
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# VS Code files
+.vscode/
+
+# JADE specific files
+APDescription.txt
+MTPs-Main-Container.txt
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+.env
+.venv
+
+# Misc
+.DS_Store
+*~ 
